@@ -11,7 +11,7 @@ This is the demo video of the main page, product display page so far.<br>
 Reservation page and comments pages will be developed soon.<br><br>
 
 ***Due to the course policy, uploading project codes is not allowed:(***<br>
-If you are interested in my work, please contact me via email(jshine1111@gmail.com) to see my full codes.<br>
+Please contact me via email(jshine1111@gmail.com) to see my full codes.<br>
 I would be very happy to show my codes!
 
 ### Language and Framework
