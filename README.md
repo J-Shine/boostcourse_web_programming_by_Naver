@@ -10,7 +10,7 @@ Reservation page and comments page will be developed soon.<br><br>
 
 *Due to the course policy, uploading project codes is not allowed:(*<br>
 Please contact me via email(jshine1111@gmail.com) to see my full codes.<br>
-I would be very happy to show my codes!
+I would be very happy to show you!
 
 ### Language and Framework
 ```Java 8```/ ```Spring 5.2.15```/ ```JavaScript ES6``` / ```Tomcat v8.5```
