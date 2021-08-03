@@ -1,8 +1,6 @@
 # reservation_website_Naver_boostcourse
-
+This project develops the Naver reservation website mainly using Spring Framework and JavaScript.
 ## Demo
-
-
 
 https://user-images.githubusercontent.com/61873510/127880924-6cb49447-8301-44dd-9e67-43a0dc73c0be.mp4
 
